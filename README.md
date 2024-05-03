@@ -77,8 +77,8 @@
   <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"> 
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> 
-  
-  <br>
+  <div>
+<br>
 
 ### 요구사항 명세서
 [ 요구사항 명세서 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%AA%85%EC%84%B8%EC%84%9C)
