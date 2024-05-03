@@ -85,6 +85,7 @@
 ### API 명세서
 [ API 명세서 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
 ### DB 모델링
+[ DB 모델링 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/DB-%EB%AA%A8%EB%8D%B8%EB%A7%81)
 
 ## 2. 빌드
 
