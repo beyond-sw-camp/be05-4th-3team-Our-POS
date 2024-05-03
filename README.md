@@ -13,11 +13,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><b>박상철</b><br /></td>
-      <td align="center"><b>최하나</b><br /></td>
-      <td align="center"><b>이윤경</b><br /></td>
-      <td align="center"><b>정황엽</b><br /></td>
-      <td align="center"><b>신민형</b><br /></td>
+      <td align="center"><br /><sub><b>박상철</b></sub></a><br /></td>
+      <td align="center"><br /><sub><b>최하나</b></sub></a><br /></td>
+      <td align="center"><br /><sub><b>이윤경 </b></sub></a><br /></td>
+      <td align="center"><br /><sub><b>정황엽</b></sub></a><br /></td>
+      <td align="center"><br /><sub><b>신민형</b></sub></a><br /></td>
     </tr>
     <tr>
         <td align="center">팀원</td>
@@ -54,6 +54,9 @@
 [ 요구사항 명세서 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD-%EB%AA%85%EC%84%B8%EC%84%9C)
 ### API 명세서
 [ API 명세서 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/API-%EB%AA%85%EC%84%B8%EC%84%9C)
+### DB 모델링
+
 ## 2. 빌드
+
 ## 3. 배포
 ![CICD배포문서-프리뷰-001](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/156383201/845c10f0-a368-4546-8b89-455a02c767b0)
