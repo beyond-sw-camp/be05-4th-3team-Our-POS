@@ -90,5 +90,6 @@
 ## 2. 빌드
 
 ## 3. 배포
-![CICD배포문서-프리뷰-001 (1)](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/156383201/0807b89c-a1a9-45ea-9f4d-f227371d0bce)
+![CICD배포문서-프리뷰-001 (2)](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/156383201/048e923e-d75c-45fa-a6ea-737a1e447384)
+
 
