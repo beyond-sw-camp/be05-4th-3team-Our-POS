@@ -13,11 +13,11 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><br /><sub><b>박상철</b></sub></a><br /></td>
-      <td align="center"><br /><sub><b>최하나</b></sub></a><br /></td>
-      <td align="center"><br /><sub><b>이윤경 </b></sub></a><br /></td>
-      <td align="center"><br /><sub><b>정황엽</b></sub></a><br /></td>
-      <td align="center"><br /><sub><b>신민형</b></sub></a><br /></td>
+      <td align="center"><b>박상철</b><br /></td>
+      <td align="center"><b>최하나</b><br /></td>
+      <td align="center"><b>이윤경</b><br /></td>
+      <td align="center"><b>정황엽</b><br /></td>
+      <td align="center"><b>신민형</b><br /></td>
     </tr>
     <tr>
         <td align="center">팀원</td>
