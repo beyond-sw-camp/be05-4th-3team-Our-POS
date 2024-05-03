@@ -9,12 +9,33 @@
 <hr>
 
 ### 팀명:3조
-### 팀원소개
-* 박상철
-* 최하나
-* 이윤경
-* 정황엽
-* 신민형
+### 팀 소개
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><b>박상철</b><br /></td>
+      <td align="center"><b>최하나</b><br /></td>
+      <td align="center"><b>이윤경</b><br /></td>
+      <td align="center"><b>정황엽</b><br /></td>
+      <td align="center"><b>신민형</b><br /></td>
+    </tr>
+    <tr>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+        <td align="center">팀원</td>
+    </tr>
+    <tr>
+        <td align="center">BackEnd,CI&CD</td>
+        <td align="center">FrontEnd</td>
+        <td align="center">FrontEnd</td>
+        <td align="center">CI&CD,PaperWork</td>
+        <td align="center">CI&CD,PaperWork</td>
+    </tr>
+  </tbody>
+</table>
+<br/><br/>
 
 
 <hr>
