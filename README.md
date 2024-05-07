@@ -91,6 +91,7 @@
 ![CICD배포문서-프리뷰-001 (2)](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/156383201/048e923e-d75c-45fa-a6ea-737a1e447384)
 
 ## 3. CI&CD 적용
+[Back-end CI&CD 상세설명](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/Back%E2%80%90end-CI&CD-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%86%8C%EA%B0%9C)
 ![스크린샷 2021-09-12 오후 4 39 05](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/155698895/f47cd51a-454b-4aa6-8b33-bf039042d2ce)
 
 
