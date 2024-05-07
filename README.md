@@ -87,9 +87,10 @@
 ### DB 모델링
 [ DB 모델링 Link ](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/wiki/DB-%EB%AA%A8%EB%8D%B8%EB%A7%81)
 
-## 2. 빌드
-
-## 3. 배포
+## 2. Continuos Integration & Continuos Delivery
 ![CICD배포문서-프리뷰-001 (2)](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/156383201/048e923e-d75c-45fa-a6ea-737a1e447384)
+
+## 3. CI&CD 적용
+![스크린샷 2021-09-12 오후 4 39 05](https://github.com/beyond-sw-camp/be05-4th-3team-Our-POS/assets/155698895/f47cd51a-454b-4aa6-8b33-bf039042d2ce)
 
 
