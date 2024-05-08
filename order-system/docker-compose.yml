@@ -1,0 +1,25 @@
+services:
+  database:
+    image: mariadb:10.5
+    volumes:
+      - ./database:/var/lib/mysql
+    restart: always
+    environment:
+      MYSQL_DATABASE: order-system
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+
+  app:
+    image: scpark0698/backend:1.0
+    container_name: backend_container
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:mariadb://database:3306/order-system?useUnicode=true
+      SPRING_DATASOURCE_USERNAME: root
+      SPRING_DATASOURCE_PASSWORD: root
+    volumes:
+      - /home/ubuntu/image:/var/lib/image
